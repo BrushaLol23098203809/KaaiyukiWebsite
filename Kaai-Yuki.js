@@ -1,3 +1,4 @@
 Name= Kaai Yuki
-Image Logo= Favicon.ico
-https://kaaiyuki.jp//
+Image Logo= Icon.png
+Website= https://www.kaaiyuki.jp
+Updated Kaai yuki Browser Link
