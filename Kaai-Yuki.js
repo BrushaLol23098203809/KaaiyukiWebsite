@@ -1,1 +1,2 @@
-Add a "Download" and Click and tap
+Name= Kaai Yuki
+Image Logo= Favicon.ico
